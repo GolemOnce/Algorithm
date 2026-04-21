@@ -1,6 +1,6 @@
 package CodeKata.LV2;
 
-/* [연습문제] 문자열 다루기 기본 */
+/* [연습문제] 문자열 내림차순으로 배치하기 */
 
 import java.util.*;
 
