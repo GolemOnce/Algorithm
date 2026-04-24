@@ -1,4 +1,4 @@
-package CodeKata.LV2;
+package CodeKata.LV3;
 
 /* [연습문제] 이상한 문자 만들기 */
 
